@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark"
+    tools:context="com.klevar.blinkeffect.MainActivity">
+
+    <ToggleButton xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/flashlightButton"
+        android:layout_width="204dp"
+        android:layout_height="71dp"
+        android:layout_gravity="center"
+        android:background="@drawable/toggle_switch"
+        android:gravity="center"
+        android:onClick="onToggleClicked"
+        android:text=""
+        android:textColor="@android:color/transparent"
+        android:textColorLink="@android:color/transparent"
+        android:textOff=""
+        android:textOn=""
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>
+
+
+
+
+
+
+
+
+
+
