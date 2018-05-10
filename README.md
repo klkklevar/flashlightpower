@@ -1,5 +1,5 @@
 
-Simple Flashlightpower app
+Simple Flashlight app
 
 Version 1.0.0
 
