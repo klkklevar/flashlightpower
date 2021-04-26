@@ -9,4 +9,4 @@ A sample readme about FlashLight thats help to open the light from camera with b
 
 License & copyright
 
-KlkKlevar
+Khalid Klevar
